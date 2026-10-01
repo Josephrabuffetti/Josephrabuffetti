@@ -25,6 +25,6 @@ Residential Assistant at Rhode Island College. Previous experience supporting ad
 
 ## Development approach
 
-Some projects use AI-assisted implementation and iteration. Project documentation distinguishes implemented features from planned work and records limitations and validation needs.
+Some projects use AI-assisted implementation and iteration through bug testing. Project documentation distinguishes implemented features from planned work and records limitations and validation needs.
 
 **Contact:** [Josephrabuffetti@workmail.com](mailto:Josephrabuffetti@workmail.com)
