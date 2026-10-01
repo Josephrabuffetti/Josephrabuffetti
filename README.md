@@ -9,7 +9,7 @@ Building a foundation in security, systems, and practical software development. 
 | Project | Focus | Status |
 | --- | --- | --- |
 | Virtual cybersecurity lab | Kali Linux, VirtualBox, virtual machine configuration, networking fundamentals | Environment deployed; public walkthrough planned |
-| Anchor | Offline Python/Tkinter reminder application, SQLite, natural-language date parsing | Prototype in development with AI assistance |
+| Anchor | Offline Python/Tkinter reminder application, SQLite, natural-language date parsing | Prototype in development with AI Bugtesting assistance |
 | Paycheck calculators | Python and Java, input validation, decimal arithmetic, testable logic | Coursework extended into a portfolio project |
 
 ## Technical foundation
